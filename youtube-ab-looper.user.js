@@ -3,6 +3,9 @@
 // @namespace    youtube-ab-looper
 // @version      3.3.3
 // @description  A/B loop, rychlost a bezpečné ukládání vlastních YouTube klipů
+// @author       Broukoslav
+// @homepageURL  https://github.com/Broukoslav/youtube-ab-looper
+// @supportURL   https://github.com/Broukoslav/youtube-ab-looper/issues
 // @match        https://www.youtube.com/*
 // @grant        none
 // @run-at       document-idle

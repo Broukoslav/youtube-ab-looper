@@ -1,3 +1,5 @@
+[🚀 Instalovat YouTube A/B Looper](https://raw.githubusercontent.com/Broukoslav/youtube-ab-looper/refs/heads/main/youtube-ab-looper.user.js)
+
 YouTube A/B Looper + Clips
 
 Userscript pro YouTube
